@@ -1,3 +1,3 @@
-### I will let my code do the talking!
+### Always in SGD mode.
 
 ![](aboutMe2.png)
